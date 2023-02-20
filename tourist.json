@@ -1,0 +1,281 @@
+{
+    "tour":[
+    {
+        "id":1,
+        "tourname": "Mamangal Beach",
+        "touradd": "Sitio Mamangal, Virac Catanduanes",
+        "tourmuni": "Virac",
+        "tourimg": "https://gocatanduanes.com/storage/2020/04/Mamangal15-2-600x600.png"
+    },
+     {
+        "id":2,
+        "tourname": "Amenia Beach",
+        "touradd": "Palawig, Virac Catanduanes",
+        "tourmuni": "Virac",
+        "tourimg": "https://gocatanduanes.com/storage/2020/04/ameniabeach2-1-600x600.png",
+        "tourdesc": "Having fine cream-colored and unspoiled waters, the whole Amenia Beach charms peoples to take a dive. With its all-around shaped scene and relaxing mood, it is seamless for a fine retreat. Situated in Palawig, San Andres, Catanduanes. It is one of the developed beaches in Catanduanes."
+    },
+    {
+        "id":3,
+        "tourname": "Bahaw Hilawan Falls",
+        "touradd": "Hilawan, San Andres, Catanduanes",
+        "tourmuni": "San Andres",
+        "tourimg": "https://gocatanduanes.com/storage/2020/04/bahawhilawan10-1-600x600.png",
+        "tourdesc": "Bahaw Hilawan falls is located in Brgy. Hilawan in the town of San Andres. This is a 15 to 20 meter tall plunge-type waterfalls so you will enjoy the view when you visit it, however going to this place will take you about an hour of trek and climb from the main road and you will expect a lot of slippery/rocky trail along the way so you better take extra care. Mysteriously, sometimes the falls doesn’t have water even on rainy days so good luck and pray that you will be welcomed by what you expect."
+
+
+    },
+    {
+        "id":4,
+        "tourname": "Balacay Point",
+        "touradd": "Benticayan, Baras, Catanduanes",
+        "tourmuni": "Baras",
+        "tourimg": "https://gocatanduanes.com/storage/2020/04/BalacayPoint9-1-600x600.png",
+        "tourdesc": "Balacay Point is one of the tourist spots that is frequently visited by tourists and travelers in Catanduanes. Going to Balacay Point will give you a 15 minute tricycle ride from Puraran plus a 15-20 minute trek through a low-canopy forest."
+    },
+     {
+        "id":5,
+        "tourname": "Balongbong Falls",
+        "touradd": "Balongbong, Bato, Catanduanes",
+        "tourmuni": "Bato",
+        "tourimg": "https://gocatanduanes.com/storage/2020/04/Balongbong-Falls12-1-600x600.png",
+        "tourdesc": "Going to this falls is not much of a hassle since it is just near the national road and it will just give you not more than 5 minutes trek. What you will expect is a twin cascade falls and remnant of man-made pool and buildings since this was a resort that has been disregarded. "
+    },
+    {
+        "id":6,
+        "tourname": "Batalay Mangrove Eco Park",
+        "touradd": "Batalay, Bato, Catanduanes",
+        "tourmuni": "Bato",
+        "tourimg": "https://gocatanduanes.com/storage/2020/04/BatalayMangrovePark18-1-600x600.png",
+        "tourdesc": "Mangrove Reforestation Program was created in a 10-hectare area in Barangay Batalay, Town of Bato, Province of Catanduanes for community awareness of the importance of mangroves in coastal and marine ecosystem that includes sea grass and the coral reefs’ protection and climatic change, and thus promotes more reforestation initiatives in the Province."
+    },
+     {
+        "id":7,
+        "tourname": "Bato Church",
+        "touradd": "Libod, Bato, Catanduanes",
+        "tourmuni": "Bato",
+        "tourimg": "https://gocatanduanes.com/storage/2020/04/BatoChurch5-1-600x600.png",
+        "tourdesc": "The church is built with mortar and coral limestones designed to withstand the strong storms that batters the island yearly. It is a heritage that the current day Catanduanes values until today."
+    
+    },
+     {
+        "id":8,
+        "tourname": "Batong Paluway",
+        "touradd": "Batong Paluway, San Andres, Catanduanes",
+        "tourmuni": "San Andres",
+        "tourimg": "https://gocatanduanes.com/storage/2020/04/BatongPaloay6-1-600x600.png",
+        "tourdesc": "The (Our Lady of Sorrows) image is etched on a piece of stone that has gradually increased in size. When found, the original size of the stone was only 1 1/2 cm x 2cm."
+    },
+    {
+        "id":9,
+        "tourname": "Binurong Point",
+        "touradd": "Guinsaanan, Baras, Catanduanes",
+        "tourmuni": "Baras",
+        "tourimg": "https://gocatanduanes.com/storage/2020/04/BinurongPoint8-1-600x600.png",
+        "tourdesc": "Binurong Point is one of the newest attractions the island of Catanduanes can offer. Binurong Point is located in Brgy. Guinsaanan, Baras, Catanduanes. A Batanes/Ireland hills & cliffs look and feel. Trekking to Binurong Point is easy unlike going to Bote Light House in Bato."
+    },
+     {
+        "id":10,
+        "tourname": "Boto ni Korakog",
+        "touradd": "Bacak, Bagamanoc, Catanduanes",
+        "tourmuni": "Bagamanoc",
+        "tourimg": "https://gocatanduanes.com/storage/2020/04/BotoNiKorakog3png-1-600x600.png",
+        "tourdesc": "Boto ni Korakog also known as Ilihan rock is the most famous rock formation in Catanduanes dubbed as the “Sexiest Islet in the Country” due to its male organ-like shape."
+    },
+     {
+        "id":11,
+        "tourname": "Cagnipa Rolling Hills",
+        "touradd": "Balognonan, Pandan, Catanduanes",
+        "tourmuni": "Pandan",
+        "tourimg": "https://gocatanduanes.com/storage/2020/04/cagnipa-600x600.png",
+        "tourdesc": "Cagnipa Rolling Hills which is around nine kilometers from town is a full “hills-to-sea” ecosystem with its rugged green mounds reaching out to the vast deep blue ocean and pristine white sand beaches and coves. It is considered as “The Batanes of Catanduanes”"
+    },
+     {
+        "id":12,
+        "tourname": "Luyang Cave",
+        "touradd": "Hawan Grande, Virac, Catanduanes",
+        "tourmuni": "Virac",
+        "tourimg": "https://gocatanduanes.com/storage/2020/04/HawanGrandeLuyangCave15-1-600x600.png",
+        "tourdesc": "Locals said that Hawan Grande Luyang Cave is one of their primary shelters if the storm/typhoon that visits Catanduanes is very strong. Locals also said that this cave was also a Japanese shelter during World War II"
+    },
+     {
+        "id":13,
+        "tourname": "Hiyop Highlands",
+        "touradd": "Hiyop, Pandan, Catanduanes",
+        "tourmuni": "Pandan",
+        "tourimg": "https://gocatanduanes.com/storage/2020/04/Hiyop4-1-600x600.png",
+        "tourdesc": "It is a full “mountain-to-sea” ecosystem with its rugged green mountains with stunning landscape reaching out to the vast deep blue ocean. It is a great place for photography session and has one of the best picture-perfect sunrise and sunset views wherein one can enjoy the panoramic view of the town and the vast Pacific Ocean in the horizon. "
+    },
+     {
+        "id":14,
+        "tourname": "Linampawan Falls",
+        "touradd": "Tokio, Pandan, Catanduanes",
+        "tourmuni": "Pandan",
+        "tourimg": "https://gocatanduanes.com/storage/2020/04/linampawan2-1-600x600.png",
+        "tourdesc": "Linampawan Falls is a sight to behold because visitors can marvel not just at its clear cascades but at the mountain draped in lush green forest surrounding its deep natural pool."
+    },
+    {
+        "id":15,
+        "tourname": "Maribina Falls",
+        "touradd": "Marinawa/Binanuahan, Bato, Catanduanes",
+        "tourmuni": "Bato",
+        "tourimg": "https://gocatanduanes.com/storage/2020/04/MaribinaFalls-2-600x600.png",
+        "tourdesc": "Maribina Falls is situated in the town of Bato, it is one of the most famous and most available waterfalls in the island. The falls is about 5-6 meters high with radiant spouting rapids of perfectly clear waters."
+    },
+   {
+        "id":16,
+        "tourname": "Marilima Beach",
+        "touradd": "Marilima, Virac Catanduanes",
+        "tourmuni": "Virac",
+        "tourimg": "https://gocatanduanes.com/storage/2020/04/MarilimaBeach9-2-600x600.png",
+        "tourdesc": "Marilima Beach in Virac, Catanduanes is an incredible sight as a result of its glimmering white sands and the reasonable blue ocean extending similarly as the eye can see."
+    },
+     {
+        "id":17,
+        "tourname": "Maturin Rock Island",
+        "touradd": "Baldoc, Pandan, Catanduanes",
+        "tourmuni": "Pandan",
+        "tourimg": "https://gocatanduanes.com/storage/2020/04/maturin2-1-600x600.png",
+        "tourdesc": "Who would have thought that there is a gigantic island made of limestone surrounded by turquoise waters as exquisite as the Maturin Rock Island in the Northern tip of the province? Travelers will be awed and amazed with the wonderful and picturesque work of nature which is a habitat for sea snakes, migratory birds and a unique wildlife. It has been a spot for the “Born to be Wild” television series exploration"
+
+    },
+     {
+        "id":18,
+        "tourname": "Mount Cagmasoso",
+        "touradd": "Lictin, San Andres, Catanduanes",
+        "tourmuni": "San Andres",
+        "tourimg": "https://gocatanduanes.com/storage/2020/04/MountCagmasoso4-1-600x600.png",
+        "tourdesc": "The mountainous terrain of mount Cagmasoso located in the town of San Andres were the Luyang cave is the highest mountain peak in the province."
+    },
+    {
+        "id":19,
+        "tourname": "Museo de Catanduanes",
+        "touradd": "Sta. Elena, Virac Catanduanes",
+        "tourmuni": "Virac",
+        "tourimg": "https://gocatanduanes.com/storage/2020/04/MuseodeCatanduanes4-1-600x600.png",
+        "tourdesc": "Museo de Catanduanes, is the island’s principal museum, built up by the Provincial Tourism Office of Catanduanes which caters the province’s historical, cultural, and social legacy."
+    },
+   {
+        "id":20,
+        "tourname": "Nahulugan Falls",
+        "touradd": "San Pedro, Gigmoto, Catanduanes",
+        "tourmuni": "Gigmoto",
+        "tourimg": "https://gocatanduanes.com/storage/2020/04/NahuluganFalls6-1-600x600.png",
+        "tourdesc": "One of the best attraction of Catanduanes’ faultless treasure is the waterfalls found in the town of Gigmoto. The Nahulugan Falls is a beautifully cascade three-tiered marvel that prides its cool and perfectly clear water encompassed by the island’s delicious green wilderness."
+    },
+     {
+        "id":21,
+        "tourname": "PAGASA Weather Radar Station",
+        "touradd": "Buenavista, Bato, Catanduanes",
+        "tourmuni": "Bato",
+        "tourimg": "https://gocatanduanes.com/storage/2020/04/PAGASA2-1-600x600.png",
+        "tourdesc": "PAGASA Weather Radar Station is placed in Barangay Buenavista, Municipality of Bato, Catanduanes. It is considered as one of the furthermost advanced radar station in the world"
+
+    },
+   {
+        "id":22,
+        "tourname": "Palumbanes Islands",
+        "touradd": "Toytoy, Caramoran, Catanduanes",
+        "tourmuni": "Caramoran",
+        "tourimg": "https://gocatanduanes.com/storage/2020/04/Palumbanes6-1-600x600.png",
+        "tourdesc": "The Palumbanes or Palumbanes Islands, also referred locally as “Parompong”, is a group of islands in the Maqueda Channel that sits at the north-western part of Caramoran, a town of Catanduanes Island Province in Bicol Region."
+    },
+     {
+        "id":23,
+        "tourname": "Pandan Mangrove Reserve",
+        "touradd": "Oga, Pandan, Catanduanes",
+        "tourmuni": "Pandan",
+        "tourimg": "https://gocatanduanes.com/storage/2020/04/pandanmangrovepark-600x600.png",
+        "tourdesc": "The mangrove forest in these areas consists of rich and diverse wildlife that provide nature lovers to visit and explore its wetlands and resources. Stretching along the swampy area of Pandan in the midst of an expansive mangrove forest and opening further out to Mambang and Carangyan Beach are the mangroves, giving a welcome and fresh sight to travellers and visitors alike. Aside from being home to different fishes and invertebrates such as shrimps, crustaceans, and mollusks, the mangrove forest serves as protection from storm surge, damaging waves, and floods."
+    },
+   {
+        "id":24,
+        "tourname": "Patag Island",
+        "touradd": "Cagraray, Bato, Catanduanes",
+        "tourmuni": "Bato",
+        "tourimg": "https://gocatanduanes.com/storage/2020/04/CagrarayIsland-1-600x600.png",
+        "tourdesc": "If you are already in the island, you will see some clear water lagoons. If you go further, there you will see the reason why it is called “Patag Island”, a massive flat rock that can accommodate for over a hundred people. Patag Island is like a concert ground with a mini stage."
+    },
+   {
+        "id":25,
+        "tourname": "Prayer Mountain",
+        "touradd": "Bigaa, Virac, Catanduanes",
+        "tourmuni": "Virac",
+        "tourimg": "https://gocatanduanes.com/storage/2020/04/PrayerMountain2-1-600x600.png",
+        "tourdesc": "It is a spiritual refuge/retreat center that is welcoming everyone to have a time out for a reflection. The place is open for everyone 24 hours/day. Prayer Mountain exhibits 2 mini caves (grotto) and 1 medium-sized cave with water."
+   },
+        {
+        "id":26,
+        "tourname": "Puraran Beach and Surf Spot",
+        "touradd": "Puraran, Baras, Catanduanes",
+        "tourmuni": "Baras",
+        "tourimg": "https://gocatanduanes.com/storage/2020/04/Puraran25-1-600x600.png",
+        "tourdesc": "Puraran Surf Spot is facing straight the Pacific Ocean. The beach has creamy golden sand, clear waves, and colorful coral reefs."
+
+    },
+     {
+        "id":27,
+        "tourname": "Sakahon Beach",
+        "touradd": "Bote, Bato, Catanduanes",
+        "tourmuni": "Bato",
+        "tourimg": "https://gocatanduanes.com/storage/2020/04/SakahonBeach-1-600x600.png",
+        "tourdesc": "On the south eastern part of Catanduanes, Sakahon Beach in Brgy. Bote in the town of Bato is a favorite place for beachgoers because of its clear waters and fine sands and stunning view of the nearby islet."
+    },
+   {
+        "id":28,
+        "tourname": "Santo Domingo River",
+        "touradd": "Sto. Domingo, Virac, Catanduanes",
+        "tourmuni": "Virac",
+        "tourimg": "https://gocatanduanes.com/storage/2020/04/stodomingoriver4-1-600x600.png",
+        "tourdesc": "Santo Domingo River is a place where most locals love to swim when they don’t want to swim in salty waters."
+    },
+    {
+        "id":29,
+        "tourname": "Solong Falls",
+        "touradd": "Solong, San Miguel, Catanduanes",
+        "tourmuni": "Virac",
+        "tourimg": "https://gocatanduanes.com/storage/2020/04/SolongFalls9-1-600x600.png"
+    },
+   {
+        "id":30,
+        "tourname": "Talisoy Beach",
+        "touradd": "Talisoy, Virac, Catanduanes",
+        "tourmuni": "Virac",
+        "tourimg": "https://gocatanduanes.com/storage/2020/04/JesusFaceBeach-2-600x600.png"
+    },
+     {
+        "id":31,
+        "tourname": "Tuwad-tuwadan Blue Lagoon",
+        "touradd": "Balagnonan, Pandan, Catanduanes",
+        "tourmuni": "Pandan",
+        "tourimg": "https://gocatanduanes.com/storage/2020/04/Tuwadtuwadan6-1-600x600.png",
+        "tourdesc": "A place that is surrounded by trees, having a quiet and peaceful ambience, only the sound of the water splashing down streaming through and the chirps of the birds are the only things you can hear is the perfect place to have a relaxation. Located in Brgy. Solong in the town of San Miguel, Catanduanes."
+
+    },
+   {
+        "id":32,
+        "tourname": "Twin Rock Beach",
+        "touradd": "Igang, Virac, Catanduanes",
+        "tourmuni": "Virac",
+        "tourimg": "https://gocatanduanes.com/storage/2020/04/TwinrockBeach14-1.png",
+        "tourdesc": "Twin Rock Beach otherwise called Igang Beach located southwest of Catanduanes, it is one of the best known and developed resorts in the island."
+    },
+     {
+        "id":33,
+        "tourname": "Virac Cathedral",
+        "touradd": "San Roque, Virac, Catanduanes",
+        "tourmuni": "Virac",
+        "tourimg": "https://gocatanduanes.com/storage/2020/04/ViracCathedral7-1-600x600.png",
+        "tourdesc": "The Church of the Immaculate Conception also known as “Virac Cathedral”, situated at the heart of the capital town of Virac, remains a lasting proof to the deep faith of Viracnons and is an architectural heritage that is constantly being adored by locals and visitors alike."
+         
+    },
+    {
+        "id":34,
+        "tourname": "Yabu-Yabuhan",
+        "touradd": "Canlubi, Pandan, Catanduanes",
+        "tourmuni": "Pandan",
+        "tourimg": "https://gocatanduanes.com/storage/2020/04/yabuyabuhanbeach3-1-600x600.png"
+    }
+]
+}
+
